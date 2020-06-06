@@ -1,0 +1,3 @@
+-There are many HarCascade classifiers
+-This is frontal face
+-.png images may give error. try .jpg
